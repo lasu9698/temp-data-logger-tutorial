@@ -15,7 +15,7 @@ Let's write a program to record air temperature every 1 minute
 loops.everyInterval(60000, function () {
    
 })
-
+ 
 
 ```
 
