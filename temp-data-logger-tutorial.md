@@ -1,5 +1,5 @@
 ```package
-datalogger= github:lancaster-university/microbit-datalogger-ui
+datalogger = *
 ```
 
 # Data Logger: Air Temperature
